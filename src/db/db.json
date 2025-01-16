@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "b6e3cd2d-0972-4279-a124-8f43e3bd0e02",
+    "name": "Willie Mueller-Wolff",
+    "phone": "746.772.2167 x3746",
+    "email": "Susie_Bernier76@hotmail.com",
+    "job": "Global Directives Producer"
+  },
+  {
+    "id": "562a8c5e-b4ae-43a2-ae7c-fe976b3a66be",
+    "name": "Cornelius Muller",
+    "phone": "214.984.6094 x0657",
+    "email": "Xander64@yahoo.com",
+    "job": "Product Metrics Officer"
+  },
+  {
+    "id": "f4daf170-f725-4b13-8191-4ba4377d924d",
+    "name": "Audrey Halvorson",
+    "phone": "467.636.4124 x734",
+    "email": "Felipe.Zemlak@yahoo.com",
+    "job": "Internal Infrastructure Director"
+  },
+  {
+    "id": "d5303086-10c5-4ccb-99cc-09e6e26cc164",
+    "name": "Jonathan Skiles V",
+    "phone": "532.226.0278",
+    "email": "Donato_Aufderhar73@gmail.com",
+    "job": "National Usability Facilitator"
+  },
+  {
+    "id": "ea550bf6-74d1-4b88-a325-4d745ee4738b",
+    "name": "Howard Ryan",
+    "phone": "(774) 851-9774 x007",
+    "email": "Hal93@yahoo.com",
+    "job": "Forward Branding Orchestrator"
+  }
+]
